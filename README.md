@@ -309,3 +309,6 @@ streamlit run app.py
 **Last Updated:** March 6, 2026  
 **Model Version:** 3.0 (100k Dataset, CV-Validated)  
 **Status:** ✅ Production Ready
+
+
+Dataset Link - https://www.kaggle.com/c/quora-question-pairs
