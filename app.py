@@ -2,7 +2,9 @@ import streamlit as st
 import helper
 import pickle
 import numpy as np
+import nltk
 
+nltk.download('stopwords')
 # Load model
 model = pickle.load(open('model_hybrid_tfidf.pkl','rb'))
 
