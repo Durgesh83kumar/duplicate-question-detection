@@ -1,7 +1,6 @@
 import pickle
 import nltk
 
-# Download stopwords if not already present
 nltk.download('stopwords')
 
 from nltk.corpus import stopwords
