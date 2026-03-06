@@ -5,6 +5,14 @@ A machine learning project to detect duplicate question pairs from Quora using a
 ## Live Demo
 🔗 https://duplicate-question-detection-2cs2fqvbldhjzjorhg59e7.streamlit.app/
 
+## App Screenshots
+
+### Duplicate Question Example (Probability: 60%)
+![Duplicate Example](duplicate_example.png)
+
+### Not Duplicate Example (Probability: 41%)
+![Not Duplicate Example](not_duplicate_example.png)
+
 ## 📋 Project Overview
 
 This project identifies whether two questions are duplicates using a Gradient Boosting classifier trained on **1,00,000 question pairs** from the Quora dataset. The model combines preprocessing, traditional NLP features, and fuzzy matching to achieve high accuracy.
